@@ -16,7 +16,7 @@ body {
 .change-color {
     border-radius: 1rem;
     padding: 1rem 4rem;
-    background-color: #3c5bfa;
+    background-color: #74b9ff;
     font-size: 1.25rem;
     color: #fff;
     cursor: pointer;
@@ -24,7 +24,7 @@ body {
     border: 0;
 }
 .change-color:focus {
-    outline: 2px solid #3c5bfa;
+    outline: 2px solid #74b9ff;
     outline-offset: 4px;
 }
 .magic{
